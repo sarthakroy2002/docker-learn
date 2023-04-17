@@ -1,0 +1,27 @@
+{
+  "name": "docker-learn",
+  "version": "1.0.0",
+  "description": "Learning to dockerize a node application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthakroy2002/docker-learn.git"
+  },
+  "keywords": [
+    "docker",
+    "node",
+    "nodejs"
+  ],
+  "author": "sarthakroy2002",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarthakroy2002/docker-learn/issues"
+  },
+  "homepage": "https://github.com/sarthakroy2002/docker-learn#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
